@@ -2,21 +2,6 @@
 
 An AI-powered conversational customer support chatbot for DataFlow, a fictional SaaS data analytics and visualization platform.
 
-## Features
-
-- Interactive chat interface with AI-powered responses
-- Knowledge base with 15 documents about the fictional product
-- Context-aware conversation handling
-- Fallback mechanism for unknown queries
-- Basic analytics dashboard
-- Responsive design with Tailwind CSS
-
-## Tech Stack
-
-- Vue.js 3 (Composition API)
-- Tailwind CSS for styling
-- Chart.js for analytics visualization
-- Vite for build and development
 
 ## Project Setup
 
@@ -24,6 +9,16 @@ An AI-powered conversational customer support chatbot for DataFlow, a fictional 
 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
+
+### Step-by-Step Instructions
+
+1. Clone the repository
+```bash
+git clone 
+cd
+
+## Project Setup
+
 
 ### Standard Setup
 
@@ -57,7 +52,6 @@ npm run build
 # Preview production build
 npm run preview
 ```
-
 ## Environment Variables
 
 Create a `.env` file in the root directory with the following variables:
@@ -65,6 +59,23 @@ Create a `.env` file in the root directory with the following variables:
 ```
 VITE_GOOGLE_AI_STUDIO_KEY=your_api_key_here
 ```
+
+## Features
+
+- Interactive chat interface with AI-powered responses
+- Knowledge base with 15 documents about the fictional product
+- Context-aware conversation handling
+- Fallback mechanism for unknown queries
+- Basic analytics dashboard
+- Responsive design with Tailwind CSS
+
+## Tech Stack
+
+- Vue.js 3 (Composition API)
+- Tailwind CSS for styling
+- Chart.js for analytics visualization
+- Vite for build and development
+
 
 ## Project Structure
 
