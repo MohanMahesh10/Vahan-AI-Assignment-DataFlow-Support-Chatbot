@@ -17,7 +17,6 @@ An AI-powered conversational customer support chatbot for DataFlow, a fictional 
 git clone https://github.com/MohanMahesh10/Vahan-AI-Assignment-DataFlow-Support-Chatbot.git
 cd
 
-## Project Setup
 
 
 ### Standard Setup
