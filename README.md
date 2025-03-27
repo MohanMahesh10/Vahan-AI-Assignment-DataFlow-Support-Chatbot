@@ -35,7 +35,7 @@ An AI-powered conversational customer support chatbot for DataFlow, a fictional 
 ### Step-by-Step Instructions
 
 1. Clone the repository
-```bash
+
 git clone https://github.com/MohanMahesh10/Vahan-AI-Assignment-DataFlow-Support-Chatbot.git
 cd Vahan-AI-Assignment-DataFlow-Support-Chatbot
 
@@ -43,13 +43,13 @@ cd Vahan-AI-Assignment-DataFlow-Support-Chatbot
 
 ### Standard Setup
 
-```bash
+
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
-```
+
 
 The application will be available at http://localhost:3000
 
@@ -57,7 +57,7 @@ The application will be available at http://localhost:3000
 
 For a consistent development environment, you can use Docker:
 
-```bash
+
 # Build and start the container
 docker-compose up
 ```
