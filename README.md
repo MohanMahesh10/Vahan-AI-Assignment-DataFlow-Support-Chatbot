@@ -66,7 +66,7 @@ The application will be available at http://localhost:3000
 
 ### Additional Commands
 
-```bash
+
 # Build for production
 npm run build
 
